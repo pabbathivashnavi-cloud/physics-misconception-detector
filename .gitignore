@@ -1,0 +1,6 @@
+venv/
+.env
+.env backup copy
+__pycache__/
+*.pyc
+app backup copy.py
